@@ -4,10 +4,10 @@
     grid-template-rows: auto 1fr auto;
   }
 
-p {
-  /*färg på text*/
-}
-
+h1{font-size: 175%;}
+h2{font-size: 185%;}
+p{font-size: 145%;}
+  
 body {
   display: grid;
   gap: 1rem;
