@@ -1,0 +1,49 @@
+@media (min-width: 600px) {
+  body {
+    grid-template-columns: 1fr 400;
+    grid-template-rows: auto 1fr auto;
+  }
+
+p {
+  /*färg på text*/
+}
+
+body {
+  display: grid;
+  gap: 1rem;
+  background-color: #000000;
+}
+header{
+  background-color: #000000;
+  grid-column: span 2;
+}
+
+section {
+  padding-right: 0;
+  background-color:
+#ffffff;
+  grid-area: ;
+}
+
+aside {
+  background-color: #ffffff;
+  grid-area: ;
+  grid-row: span 2 / auto;
+}
+
+footer {
+  background-color: #000000;
+  color: #ffffff;
+  grid-column: span 2;
+
+}
+
+
+img#sea {
+  max-width: 1440;
+  min-width: 75%;
+}
+
+img#html {
+  max-width: 400px;
+}
