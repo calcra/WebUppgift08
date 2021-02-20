@@ -4,9 +4,9 @@
     grid-template-rows: auto 1fr auto;
   }
 
-h1{font-size: 175%;}
-h2{font-size: 185%;}
-p{font-size: 145%;}
+h1{font-size: 190%;}
+h2{font-size: 205%;}
+p{font-size: 165%;}
   
 body {
   display: grid;
